@@ -419,6 +419,10 @@ a>i{
   min-height: 1.75em !important;
   max-width: 52px;
   height: 1.75em;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  text-indent: 1px;
+  font-size: 0.8em;
 }
 .ce-menu .header-project-name>div .text{
   max-height: 20px;
