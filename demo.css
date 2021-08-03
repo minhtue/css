@@ -23,6 +23,9 @@ body {
   :root{
     --hub-toc-width: 280px;
   }
+#tmp-scope{
+  display: none;
+}
 .target-location{
   height: calc(2.5rem + 5px);
 }
