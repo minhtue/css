@@ -52,6 +52,9 @@ body {
   .ce-read-only .content-toc{
     display: block;
   }
+.ce-block i.fa, .ce-block i.fas, .ce-block i.fal{
+  font-style: normal;
+}
   .content-toc ul {
     list-style: none;
     padding-left: 0;
