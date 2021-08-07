@@ -161,7 +161,9 @@ aside.sidebar{
 .img-circle {
     border-radius: 50%;
 }
-
+.ce-read-only .ce-example__content{
+  max-width: calc(100% - 320px);
+}
 .ce-read-only aside.sidebar{
   display: none;
 }
